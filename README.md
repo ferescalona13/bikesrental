@@ -6,7 +6,7 @@ Bikes Rental for FDV
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-##Design
+## Design
 The app was developed with SpringBoot
 A main class BikesrentalApplication which has a main method
 
